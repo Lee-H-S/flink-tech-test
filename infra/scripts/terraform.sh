@@ -1,0 +1,1 @@
+# TODO: Add script to initialise terraform, parse environment variables, run the plan & apply

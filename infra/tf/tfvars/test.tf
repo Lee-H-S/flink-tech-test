@@ -1,0 +1,7 @@
+region                    = "eu-west-1"
+instance_type             = "t3.medium"
+flink_application_name    = "my-pageview-aggregation-app"
+s3_bucket_name            = "example-flink-pageview-bucket"
+environment               = "test"
+s3_jar_key                = "example-app.jar"
+key_pair_name             = "flink-app-test"
